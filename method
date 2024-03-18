@@ -1,0 +1,10 @@
+// how can cache the handshake password 
+//first the open terminal
+ctr + alt + T
+step: iwconfig
+step: check the mode is monitor and fix the mode
+step: airodump-ng wlan0
+step: cd Crunch-Cracker   
+step: chmod +x crunchcracker.sh  
+step: sudo ./crunchcracker.sh 
+//cache the handshake file and decode the handshake file with air  #airodump-ng  
